@@ -2,6 +2,7 @@
  *
  * @author Aleksey Gelezov
  * Student number: sba23107
+ * github repo: https://github.com/AlekseyGelezov/OOA_CA1-aleksey-.git
  */
 package ooa_ca1;
 
