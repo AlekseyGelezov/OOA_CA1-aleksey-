@@ -151,9 +151,9 @@ public class OOA_CA1 {
             numofclasses = "Full Time";
         }
         
-            }else{
-              System.out.println("Invalid Number Of Classes");
-            }
+        }else{
+           System.out.println("Invalid Number Of Classes");
+        }
         
         
         // WRITES EVERYTHING TO OUTPUT FILE (status.txt)
